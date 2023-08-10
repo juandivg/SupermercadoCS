@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w/2k7xMMiZ2H3EWrc1no/pohfgrGVqvuggjuEQJvpx82MqnKdShrpbemOVt8Bbn6MP8lQUdT/ctkBUrGCf8FVA==",
+  "success": true,
+  "projectFilePath": "/home/arteN01-036/juandiego/Supermercado/Supermercado.csproj",
+  "expectedPackageFiles": [
+    "/home/arteN01-036/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

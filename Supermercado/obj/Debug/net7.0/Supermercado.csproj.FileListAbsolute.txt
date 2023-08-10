@@ -1,0 +1,15 @@
+/home/arteN01-036/juandiego/Supermercado/obj/Debug/net7.0/Supermercado.csproj.AssemblyReference.cache
+/home/arteN01-036/juandiego/Supermercado/obj/Debug/net7.0/Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-036/juandiego/Supermercado/obj/Debug/net7.0/Supermercado.AssemblyInfoInputs.cache
+/home/arteN01-036/juandiego/Supermercado/obj/Debug/net7.0/Supermercado.AssemblyInfo.cs
+/home/arteN01-036/juandiego/Supermercado/obj/Debug/net7.0/Supermercado.csproj.CoreCompileInputs.cache
+/home/arteN01-036/juandiego/Supermercado/bin/Debug/net7.0/Supermercado
+/home/arteN01-036/juandiego/Supermercado/bin/Debug/net7.0/Supermercado.deps.json
+/home/arteN01-036/juandiego/Supermercado/bin/Debug/net7.0/Supermercado.runtimeconfig.json
+/home/arteN01-036/juandiego/Supermercado/bin/Debug/net7.0/Supermercado.dll
+/home/arteN01-036/juandiego/Supermercado/bin/Debug/net7.0/Supermercado.pdb
+/home/arteN01-036/juandiego/Supermercado/obj/Debug/net7.0/Supermercado.dll
+/home/arteN01-036/juandiego/Supermercado/obj/Debug/net7.0/refint/Supermercado.dll
+/home/arteN01-036/juandiego/Supermercado/obj/Debug/net7.0/Supermercado.pdb
+/home/arteN01-036/juandiego/Supermercado/obj/Debug/net7.0/Supermercado.genruntimeconfig.cache
+/home/arteN01-036/juandiego/Supermercado/obj/Debug/net7.0/ref/Supermercado.dll
