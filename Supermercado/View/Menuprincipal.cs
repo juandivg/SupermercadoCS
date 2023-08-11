@@ -1,15 +1,11 @@
 namespace Supermercado.View;
 
-public class Menuprincipal
+public static class Menuprincipal
 {
-    public Menuprincipal()
-    {
 
-    }
-
-    public int Menu()
+    public static int MenuPrincipal()
     {
-            //Console.Clear();
+            Console.Clear();
             Console.WriteLine("1.Registrar Productos");
             Console.WriteLine("2.Registrar Categorias");
             Console.WriteLine("3.Listar productos");

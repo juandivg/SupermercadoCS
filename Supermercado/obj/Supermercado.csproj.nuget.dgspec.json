@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/arteN01-036/juandiego/Supermercado/Supermercado.csproj": {}
+    "/home/apolt01-027/JuanDiego/SupermercadoCS/Supermercado/Supermercado.csproj": {}
   },
   "projects": {
-    "/home/arteN01-036/juandiego/Supermercado/Supermercado.csproj": {
+    "/home/apolt01-027/JuanDiego/SupermercadoCS/Supermercado/Supermercado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/arteN01-036/juandiego/Supermercado/Supermercado.csproj",
+        "projectUniqueName": "/home/apolt01-027/JuanDiego/SupermercadoCS/Supermercado/Supermercado.csproj",
         "projectName": "Supermercado",
-        "projectPath": "/home/arteN01-036/juandiego/Supermercado/Supermercado.csproj",
-        "packagesPath": "/home/arteN01-036/.nuget/packages/",
-        "outputPath": "/home/arteN01-036/juandiego/Supermercado/obj/",
+        "projectPath": "/home/apolt01-027/JuanDiego/SupermercadoCS/Supermercado/Supermercado.csproj",
+        "packagesPath": "/home/apolt01-027/.nuget/packages/",
+        "outputPath": "/home/apolt01-027/JuanDiego/SupermercadoCS/Supermercado/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/arteN01-036/.nuget/NuGet/NuGet.Config"
+          "/home/apolt01-027/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
         }
       }
     }
